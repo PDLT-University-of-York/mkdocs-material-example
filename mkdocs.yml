@@ -6,8 +6,14 @@ theme:
     - content.code.annotate
 
 
-# These are optional extensions that can enable additional ways of 
-# presenting content.
+# Adding a Git repository URL would display a link to the repository.
+# Subject to the configuration, it would also enable authorised users to edit the content.
+
+# repo_url: https://github.com/PDLT-University-of-York/mkdocs-material-example
+# repo_name: View the source
+
+
+# These are extensions that can enable additional ways of presenting content.
 
 markdown_extensions:
   - admonition
